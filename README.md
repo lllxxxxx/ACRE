@@ -5,7 +5,7 @@
 **An Acoustic-Cue and Contextual-Knowledge Reasoning Enhancement Framework for Speech Relation Extraction**
 
 <p>
-  <a href="https://huggingface.co/datasets/DMU-ITREC/CSRTE-Speech"><img src="https://img.shields.io/badge/Dataset-CSRTE--Speech-ffd21e" alt="Dataset"></a>
+  <a href="https://huggingface.co/datasets/DMU-ITREC/CSRTE"><img src="https://img.shields.io/badge/Dataset-CSRTE-ffd21e" alt="Dataset"></a>
   <img src="https://img.shields.io/badge/Python-3.11-3776AB" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-2.9-EE4C2C" alt="PyTorch">
   <img src="https://img.shields.io/badge/Backbone-Qwen2--Audio--7B-6f42c1" alt="Backbone">
@@ -69,7 +69,7 @@ Malformed or overly long outputs receive -0.1. The reward is also capped for rep
 | CommonVoice-SpeechRE | Human | 45 | 14,557 | 2,495 | 2,494 | 11.6s |
 | **CSRTE** | Human | 49 | 15,000 | 2,000 | 2,855 | 6.13s |
 
-CSRTE is available on Hugging Face: [DMU-ITREC/CSRTE-Speech](https://huggingface.co/datasets/DMU-ITREC/CSRTE-Speech). It includes the speech recordings, transcriptions, entity annotations and relation annotations.
+CSRTE is available on Hugging Face: [DMU-ITREC/CSRTE](https://huggingface.co/datasets/DMU-ITREC/CSRTE). It includes the speech recordings, transcriptions, entity annotations and relation annotations.
 
 ## Repository Structure
 
