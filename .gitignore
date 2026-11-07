@@ -1,0 +1,11 @@
+configs/paths.env
+outputs/
+data/
+*.ckpt
+*.safetensors
+*.bin
+*.wav
+*.mp3
+__pycache__/
+*.pyc
+.DS_Store
